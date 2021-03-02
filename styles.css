@@ -84,3 +84,10 @@ h1 {
 .calendar-day.calendar-last-days {
     opacity: .3;
 }
+
+.input{
+    color: red;
+    width: 90px;
+    align-content: center;
+    background-color: #3a32af;
+}
